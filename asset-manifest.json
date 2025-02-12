@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Ecomm/static/css/main.9ff58de8.css",
+    "main.js": "/React-Ecomm/static/js/main.870b210a.js",
+    "static/js/156.6310f007.chunk.js": "/React-Ecomm/static/js/156.6310f007.chunk.js",
+    "static/media/about.webm": "/React-Ecomm/static/media/about.124aa5f293a80046d411.webm",
+    "static/media/bgog.png": "/React-Ecomm/static/media/bgog.43a2a4e5f3a163477ce3.png",
+    "static/media/um-partner.png": "/React-Ecomm/static/media/um-partner.952e9a1ce6eec96727f5.png",
+    "static/media/source8.png": "/React-Ecomm/static/media/source8.66bcd980195424c8f94c.png",
+    "static/media/vision-about.png": "/React-Ecomm/static/media/vision-about.44a57b255db0489ba5dc.png",
+    "static/media/founder.png": "/React-Ecomm/static/media/founder.932974219469dcead955.png",
+    "static/media/collab-caro.png": "/React-Ecomm/static/media/collab-caro.61775e8dc2d657d720b1.png",
+    "static/media/sou10.png": "/React-Ecomm/static/media/sou10.4d36275f8c094fa4c709.png",
+    "static/media/sou11.png": "/React-Ecomm/static/media/sou11.6f792032bae3b3f268e7.png",
+    "static/media/caro.png": "/React-Ecomm/static/media/caro.39aa9b49ef7c30b1fdee.png",
+    "static/media/source9.png": "/React-Ecomm/static/media/source9.26404b53b5224761e4ae.png",
+    "static/media/source5.png": "/React-Ecomm/static/media/source5.aaa2b8cb241d6803c49c.png",
+    "static/media/source4.png": "/React-Ecomm/static/media/source4.142ea630844d91798a78.png",
+    "static/media/source6.png": "/React-Ecomm/static/media/source6.ee5d0444e78b5b64390a.png",
+    "static/media/source7.png": "/React-Ecomm/static/media/source7.5f38847eb59ed0e0f198.png",
+    "static/media/sou12.png": "/React-Ecomm/static/media/sou12.e0f6e7c72caec00bdcdc.png",
+    "static/media/source2.png": "/React-Ecomm/static/media/source2.f0f87659cbb3d71bf766.png",
+    "static/media/source3.png": "/React-Ecomm/static/media/source3.54bfbf5a5395655d8dad.png",
+    "static/media/source1.png": "/React-Ecomm/static/media/source1.4c8c26fe468c8b036fcd.png",
+    "index.html": "/React-Ecomm/index.html",
+    "main.9ff58de8.css.map": "/React-Ecomm/static/css/main.9ff58de8.css.map",
+    "main.870b210a.js.map": "/React-Ecomm/static/js/main.870b210a.js.map",
+    "156.6310f007.chunk.js.map": "/React-Ecomm/static/js/156.6310f007.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff58de8.css",
+    "static/js/main.870b210a.js"
+  ]
+}
